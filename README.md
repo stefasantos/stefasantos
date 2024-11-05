@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"></h1>
 
 ###
 
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caesonline.com%2Fvira-lata-caramelo%2F&psig=AOvVaw1cgwSBmTa29pogdmSjPFUI&ust=1730901660337000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCw76qtxYkDFQAAAAAdAAAAABAE"  />
 </div>
 
 ###
